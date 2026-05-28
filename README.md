@@ -1,5 +1,5 @@
 🌍Minimal Map\
-(30DayMapChallenge)\
+(30DayMapChallenge)
 
 This repository demonstrates how to create a Minimal map with R programming language. This Challenge is about ourselves to use the fewest possible elements (color, line weight, labels) while keeping the map clear, useful, and informative.
 
